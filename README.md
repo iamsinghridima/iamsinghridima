@@ -39,8 +39,8 @@ Being a biology major and data science minor, my interests lie in interdisciplin
   Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
   
 ## Publications
-- Spherical Harmonics Explorer (Zenodo, 18 Apr 2026).
-- Membrane Mechanics (Zenodo, 18 Apr 2026).
+- [![Spherical Harmonics Explorer](https://img.shields.io/badge/CSIR--IGIB-C62828?style=flat-square)](https://www.igib.res.in/) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
+- [![Membrane Mechanics](https://img.shields.io/badge/CSIR--IGIB-C62828?style=flat-square)](https://www.igib.res.in/) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridima-singh-079349395)
