@@ -40,7 +40,7 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 ## Projects
 - [![Membrane Fluctuation Analysis](https://img.shields.io/badge/Membrane%20Fluctuation%20Analysis-6A1B9A?style=flat-square)](https://bhattri.github.io/Biophysics/softwares.html) ![Sept 2025 to Mar 2026](https://img.shields.io/badge/Sept%202025%20to%20Mar%202026-555?style=flat-square)<br>
   Integrated experimental biophysics, computational image analysis, and theoretical modeling. Developed automated analysis software for vesicle membrane fluctuations and visualization modules.  
-- [![Model Training for Weather Forecasting System](https://img.shields.io/badge/Model%20Training%20for%20Weather%20Forecasting%20System-6A1B9A?style=flat-square)](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) ![Oct 2025](https://img.shields.io/badge/Oct%202025-555?style=flat-square)<br>
+- [![Model Training for Weather Forecasting System](https://img.shields.io/badge/Model%20Training%20for%20Weather%20Forecasting%20System-6A1B9A?style=flat-square)](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) ![Oct 2025 to Nov 2025](https://img.shields.io/badge/Oct%202025%20to%20Nov%202025-555?style=flat-square)<br>
   Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
   
 ## Publications
