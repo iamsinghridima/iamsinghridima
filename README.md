@@ -22,14 +22,15 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 
-## Affiliations
-[![CSIR-IGIB](https://img.shields.io/badge/CSIR--IGIB-0B6E4F?style=for-the-badge&logoColor=white)](https://www.igib.res.in/)
-
 ## Experience
-- Summer Intern, Systems Biology Unit, CSIR Institute of Genomics and Integrative Biology (May 2026 - Present) - Exploring proteostasis from an interdisciplinary angle.
-- Lab Member, IISER Mohali (Sep 2025 - Apr 2026) - Computational and theoretical analysis of membrane fluctuations and membrane mechanics; contour analysis; microscopy data analysis; modeling for bending rigidity and surface tension estimation.
-- Summer Intern, Soft Matter Biophysics Lab, IISER Mohali (May 2025 - Jul 2025) - Membrane biophysics; parameter estimation of GUVs using phase-contrast microscopy with OpenCV, CUDA, and Python; coordinate extraction with ImageJ.
-- Summer Intern, Developmental Genetics Lab, IISER Mohali (May 2024 - Jun 2024) - Drosophila genetics; genetic crosses; larval dissections; microscopy workflows; GAL4-UAS reporter analysis.
+- ![Summer Intern - Systems Biology Unit, CSIR-IGIB](https://img.shields.io/badge/Summer%20Intern%20-%20Systems%20Biology%20Unit%2C%20CSIR--IGIB-1F6FEB?style=flat-square) ![May 2026 - Present](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
+  Exploring proteostasis from an interdisciplinary angle.
+- ![Lab Member - IISER Mohali](https://img.shields.io/badge/Lab%20Member%20-%20IISER%20Mohali-1F6FEB?style=flat-square) ![Sep 2025 - Apr 2026](https://img.shields.io/badge/Sep%202025%20-%20Apr%202026-555?style=flat-square)<br>
+  Computational and theoretical analysis of membrane fluctuations and membrane mechanics; contour analysis; microscopy data analysis; modeling for bending rigidity and surface tension estimation.
+- ![Summer Intern - Soft Matter Biophysics Lab, IISER Mohali](https://img.shields.io/badge/Summer%20Intern%20-%20Soft%20Matter%20Biophysics%20Lab%2C%20IISER%20Mohali-1F6FEB?style=flat-square) ![May 2025 - Jul 2025](https://img.shields.io/badge/May%202025%20-%20Jul%202025-555?style=flat-square)<br>
+  Membrane biophysics; parameter estimation of GUVs using phase-contrast microscopy with OpenCV, CUDA, and Python; coordinate extraction with ImageJ.
+- ![Summer Intern - Developmental Genetics Lab, IISER Mohali](https://img.shields.io/badge/Summer%20Intern%20-%20Developmental%20Genetics%20Lab%2C%20IISER%20Mohali-1F6FEB?style=flat-square) ![May 2024 - Jun 2024](https://img.shields.io/badge/May%202024%20-%20Jun%202024-555?style=flat-square)<br>
+  Drosophila genetics; genetic crosses; larval dissections; microscopy workflows; GAL4-UAS reporter analysis.
 
 ## Projects
 - [![Membrane Fluctuation Analysis](https://img.shields.io/badge/Membrane%20Fluctuation%20Analysis-1F6FEB?style=flat-square)](https://bhattri.github.io/Biophysics/softwares.html) ![Sept 2025 to Mar 2026](https://img.shields.io/badge/Oct%202025-555?style=flat-square)<br>
