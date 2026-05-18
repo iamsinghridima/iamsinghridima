@@ -1,6 +1,7 @@
 # Ridima Singh
 
-Biology Major | Data Science Minor | 3rd Year BSMS | IISER Mohali
+Biology Major | Data Science Minor | 3rd Year BSMS <br>
+[![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-1E4D8B?style=for-the-badge&logoColor=white)](https://www.iisermohali.ac.in/)
 
 ## About
 Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span biophysics, biochemistry, protein modeling, systems biology, cellular and molecular biology, genomics, and neuroscience. I have hands-on experience with genetic tools, studying membrane dynamics, and exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
@@ -23,7 +24,6 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 
 ## Affiliations
 [![CSIR-IGIB](https://img.shields.io/badge/CSIR--IGIB-0B6E4F?style=for-the-badge&logoColor=white)](https://www.igib.res.in/)
-[![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-1E4D8B?style=for-the-badge&logoColor=white)](https://www.iisermohali.ac.in/)
 
 ## Experience
 - Summer Intern, Systems Biology Unit, CSIR Institute of Genomics and Integrative Biology (May 2026 - Present) - Exploring proteostasis from an interdisciplinary angle.
