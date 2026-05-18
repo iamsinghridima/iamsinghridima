@@ -6,6 +6,9 @@ Delhi, India
 ## About
 Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span biophysics, biochemistry, protein modeling, systems biology, cellular and molecular biology, genomics, and neuroscience. I have hands-on experience with genetic tools, studying membrane dynamics, and exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
 
+## Technical Skills
+Python, OpenCV, CUDA, ImageJ, LaTeX, Overleaf, VS Code
+
 ## Experience
 - Summer Intern, Institute of Genomics and Integrative Biology (CSIR) (May 2026 - Present) - Systems Biology Unit. Supervisor: Dr. Kausik Chakraborty. Exploring proteostasis from an interdisciplinary angle.
 - Lab Member, IISER Mohali (Sep 2025 - Apr 2026) - Soft Matter Biophysics Lab. Supervisor: Dr. Tripta Bhatia. Computational and theoretical analysis of membrane fluctuations and membrane mechanics; contour analysis; microscopy data analysis; modeling for bending rigidity and surface tension estimation.
@@ -19,9 +22,6 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 ## Publications
 - Spherical Harmonics Explorer (Zenodo, Apr 18, 2026).
 - Membrane Mechanics (Zenodo, Apr 18, 2026).
-
-## Skills
-Genetic tools, molecular and cellular biology, biophysics, computational modeling, microscopy data analysis, Python, OpenCV, CUDA, ImageJ, LaTeX, data visualization, exploratory data analysis.
 
 ## Contact
 - Email: ms23202@iisermohali.ac.in
