@@ -32,8 +32,8 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 - Summer Intern, Developmental Genetics Lab, IISER Mohali (May 2024 - Jun 2024) - Drosophila genetics; genetic crosses; larval dissections; microscopy workflows; GAL4-UAS reporter analysis.
 
 ## Projects
-- Membrane Fluctuation Analysis (Sep 2025 - Mar 2026) - Integrated experimental biophysics, computational image analysis, and theoretical modeling. Developed automated analysis software for vesicle membrane fluctuations and visualization modules.
-- Model Training for Weather Forecasting System (Oct 2025) - Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
+- Membrane Fluctuation Analysis (Sep 2025 - Mar 2026). Integrated experimental biophysics, computational image analysis, and theoretical modeling. Developed automated analysis software for vesicle membrane fluctuations and visualization modules.
+- [Model Training for Weather Forecasting System](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) [![Model Training for Weather Forecasting System](https://img.shields.io/badge/Model%20Training%20for%20Weather%20Forecasting%20System-1F6FEB?style=flat-square)](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) (Oct 2025). Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
 
 ## Publications
 - Spherical Harmonics Explorer (Zenodo, 18 Apr 2026).
