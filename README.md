@@ -40,7 +40,9 @@ Being a biology major and data science minor, my interests lie in interdisciplin
   
 ## Publications
 - [![Spherical Harmonics Explorer](https://img.shields.io/badge/Spherical%20Harmonics%20Explorer-1F6FEB?style=flat-square)](https://zenodo.org/records/19641497) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/18%20Apr%202026-555?style=flat-square)<br>
+-  A Spherical Harmonics Explorer is an interactive software tool that visualizes spherical harmonic functions, $Y(\theta, \phi)$, in an intuitive and dynamic way. It allows users to explore how different quantum numbers, $l$ and $m$, affect the shape, symmetry, and nodal structure of the functions on a sphere.
 - [![Membrane Mechanics](https://img.shields.io/badge/Membrane%20Mechanics-1F6FEB?style=flat-square)](https://zenodo.org/records/19641294) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/18%20Apr%202026-555?style=flat-square)<br>
+-  An interactive analysis tool for Giant Unilamellar Vesicles (GUVs) enables computation of angular auto-correlations and extraction of key mechanical parameters such as bending rigidity, $\kappa$, and effective surface tension, $\Sigma$, using Helfrich / Brochard--Lennon theory.
 
 
 ## Contact
