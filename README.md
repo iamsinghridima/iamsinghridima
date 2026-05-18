@@ -20,8 +20,8 @@ Python, OpenCV, CUDA, ImageJ, LaTeX, Overleaf, VS Code
 - Model Training for Weather Forecasting System (Oct 2025) - Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
 
 ## Publications
-- Spherical Harmonics Explorer (Zenodo, Apr 18, 2026).
-- Membrane Mechanics (Zenodo, Apr 18, 2026).
+- Spherical Harmonics Explorer (Zenodo, 18 Apr 2026).
+- Membrane Mechanics (Zenodo, 18 Apr 2026).
 
 ## Contact
 - Email: ms23202@iisermohali.ac.in
