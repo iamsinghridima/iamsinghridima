@@ -5,10 +5,6 @@ Biology Major | Data Science Minor | 3rd Year BSMS | IISER Mohali
 ## About
 Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span biophysics, biochemistry, protein modeling, systems biology, cellular and molecular biology, genomics, and neuroscience. I have hands-on experience with genetic tools, studying membrane dynamics, and exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
 
-## Affiliations
-[![CSIR-IGIB](https://img.shields.io/badge/CSIR--IGIB-0B6E4F?style=for-the-badge&logoColor=white)](https://www.igib.res.in/)
-[![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-1E4D8B?style=for-the-badge&logoColor=white)](https://www.iisermohali.ac.in/)
-
 ## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
@@ -24,6 +20,10 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 [![ImageJ](https://img.shields.io/badge/ImageJ-1F77B4?style=for-the-badge&logoColor=white)](https://imagej.nih.gov/ij/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
+
+## Affiliations
+[![CSIR-IGIB](https://img.shields.io/badge/CSIR--IGIB-0B6E4F?style=for-the-badge&logoColor=white)](https://www.igib.res.in/)
+[![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-1E4D8B?style=for-the-badge&logoColor=white)](https://www.iisermohali.ac.in/)
 
 ## Experience
 - Summer Intern, Systems Biology Unit, CSIR Institute of Genomics and Integrative Biology (May 2026 - Present) - Exploring proteostasis from an interdisciplinary angle.
