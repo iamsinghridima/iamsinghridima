@@ -46,7 +46,3 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamsinghridima)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamsinghridima)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms23202@iisermohali.ac.in)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsinghridima&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsinghridima&layout=compact&theme=tokyonight&hide_border=true)
