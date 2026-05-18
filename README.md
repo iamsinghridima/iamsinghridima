@@ -30,7 +30,7 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 - ![Summer Intern](https://img.shields.io/badge/Summer%20Intern-1F6FEB?style=flat-square) [![Soft Matter Biophysics Lab](https://img.shields.io/badge/Soft%20Matter%20Biophysics%20Lab-2E7D32?style=flat-square)](https://bhattri.github.io/Biophysics/index.html) [![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-C62828?style=flat-square)](https://www.iisermohali.ac.in/) ![May 2025 to Jul 2025](https://img.shields.io/badge/May%202025%20-%20Jul%202025-555?style=flat-square)<br>
   Membrane biophysics; parameter estimation of GUVs using phase-contrast microscopy with OpenCV, CUDA, and Python; coordinate extraction with ImageJ.
 - ![Summer Intern](https://img.shields.io/badge/Summer%20Intern-1F6FEB?style=flat-square) ![Developmental Genetics Lab](https://img.shields.io/badge/Developmental%20Genetics%20Lab-2E7D32?style=flat-square) [![IISER Mohali](https://img.shields.io/badge/IISER%20Mohali-C62828?style=flat-square)](https://www.iisermohali.ac.in/) ![May 2024 to Jun 2024](https://img.shields.io/badge/May%202024%20-%20Jun%202024-555?style=flat-square)<br>
-  Drosophila genetics; genetic crosses; larval dissections; microscopy workflows; GAL4-UAS reporter analysis.
+  Genetic tools; microscopy workflows; fluroescence microscopy; GAL4-UAS reporter analysis.
 
 ## Projects
 - [![Membrane Fluctuation Analysis](https://img.shields.io/badge/Membrane%20Fluctuation%20Analysis-1F6FEB?style=flat-square)](https://bhattri.github.io/Biophysics/softwares.html) ![Sept 2025 to Mar 2026](https://img.shields.io/badge/Oct%202025-555?style=flat-square)<br>
