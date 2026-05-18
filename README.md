@@ -14,10 +14,6 @@ Beyond academics, I enjoy dance, fashion, drama, sports, and adventure. I also v
 - Summer Intern, IISER Mohali (May 2025 - Jul 2025) - Soft Matter Biophysics Lab. Supervisor: Dr. Tripta Bhatia. Membrane biophysics; parameter estimation of GUVs using phase-contrast microscopy with OpenCV, CUDA, and Python; coordinate extraction with ImageJ.
 - Summer Intern, IISER Mohali (May 2024 - Jun 2024) - Developmental Genetics Lab. Supervisor: Prof. Lolitika Mandal. Drosophila genetics; genetic crosses; larval dissections; microscopy workflows; GAL4-UAS reporter analysis.
 
-## Education
-- IISER Mohali, BSMS in Biology (Aug 2023 - Jun 2028). Major in Biology, Minor in Data Science.
-- Rishikul Vidyapeeth Delhi, Senior Secondary School, Science.
-
 ## Projects
 - Membrane Fluctuation Analysis (Sep 2025 - Mar 2026). Integrated experimental biophysics, computational image analysis, and theoretical modeling. Developed automated analysis software for vesicle membrane fluctuations and visualization modules.
 - Model Training for Weather Forecasting System (Oct 2025). Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
