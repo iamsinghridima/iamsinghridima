@@ -1,6 +1,6 @@
 # Ridima Singh
 
-Biology Major | Data Science Minor | 3rd Year Undergraduate | BSMS
+Biology Major | Data Science Minor | 3rd Year Undergraduate | BSMS | IISER Mohali
 
 ## About
 Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span biophysics, biochemistry, protein modeling, systems biology, cellular and molecular biology, genomics, and neuroscience. I have hands-on experience with genetic tools, studying membrane dynamics, and exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
