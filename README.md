@@ -19,6 +19,8 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![ImageJ](https://img.shields.io/badge/ImageJ-1F77B4?style=for-the-badge&logoColor=white)](https://imagej.nih.gov/ij/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 
 ## Experience
 - Summer Intern, Systems Biology Unit, CSIR Institute of Genomics and Integrative Biology (May 2026 - Present) - Exploring proteostasis from an interdisciplinary angle.
