@@ -39,7 +39,7 @@ Being a biology major and data science minor, my interests lie in interdisciplin
   Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
   
 ## Publications
-- [![Spherical Harmonics Explorer](https://img.shields.io/badge/CSIR--IGIB-C62828?style=flat-square)](https://zenodo.org/records/19641497)) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
+- [![Spherical Harmonics Explorer](https://img.shields.io/badge/CSIR--IGIB-C62828?style=flat-square)](https://zenodo.org/records/19641497) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
 - [![Membrane Mechanics](https://img.shields.io/badge/CSIR--IGIB-C62828?style=flat-square)](https://zenodo.org/records/19641294) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/May%202026%20-%20Present-555?style=flat-square)<br>
 
 
