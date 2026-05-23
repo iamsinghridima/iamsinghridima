@@ -4,7 +4,7 @@
 Biology Major | Data Science Minor | 3rd Year BSMS 
 
 ## About
-Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span across biophysics, biochemistry, protein modeling, systems biology, cellular & moleculer biology, genomics and neuroscience. I have gained hands-on experience working with genetic tools, studying membrane dynamics, and performing exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
+Being a biology major and data science minor, my interests lie in interdisciplinary research that integrates theoretical, experimental, and computational approaches. My academic interests span across biophysics, biochemistry, protein modeling, systems biology, cellular & moleculer biology, biotechnology, bioinformatics, genomics and neuroscience. I have gained hands-on experience working with genetic tools, studying membrane dynamics, and performing exploratory data analysis, which has strengthened my ability to approach biological problems from multiple perspectives.
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
