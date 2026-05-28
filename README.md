@@ -43,10 +43,10 @@ regulatory dynamics.
 ## Projects
 - [![Single Cell RNA seq Neuronal Cell Type Classification](https://img.shields.io/badge/Single%20Cell%20RNA%20seq%20Neuronal%20Cell%20Type%20Classification-6A1B9A?style=flat-square)](https://github.com/iamsinghridima/RNA-seq-Neuron-Classification.git) ![May 2026](https://img.shields.io/badge/May%202026-555?style=flat-square)<br>
   Machine learning classification of mouse neuronal cell types from Allen Brain Atlas single-cell RNA-seq expression profiles.
+- [![Model Training for Weather Forecasting System](https://img.shields.io/badge/Model%20Training%20for%20Weather%20Forecasting%20System-6A1B9A?style=flat-square)](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) ![Oct 2025 to Nov 2025](https://img.shields.io/badge/Oct%202025%20to%20Nov%202025-555?style=flat-square)<br>
+  Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.  
 - [![Membrane Fluctuation Analysis](https://img.shields.io/badge/Membrane%20Fluctuation%20Analysis-6A1B9A?style=flat-square)](https://bhattri.github.io/Biophysics/softwares.html) ![Sept 2025 to Mar 2026](https://img.shields.io/badge/Sept%202025%20to%20Mar%202026-555?style=flat-square)<br>
   Integrated experimental biophysics, computational image analysis, and theoretical modeling. Developed automated analysis software for vesicle membrane fluctuations and visualization modules.  
-- [![Model Training for Weather Forecasting System](https://img.shields.io/badge/Model%20Training%20for%20Weather%20Forecasting%20System-6A1B9A?style=flat-square)](https://github.com/Prabhleen2303/WEATHER-DATA-ANALYSIS-AND-FORECASTING-MODEL) ![Oct 2025 to Nov 2025](https://img.shields.io/badge/Oct%202025%20to%20Nov%202025-555?style=flat-square)<br>
-  Built an end-to-end weather forecasting system with data collection, preprocessing, feature engineering, ML model training and evaluation, and visualizations.
   
 ## Publications
 - [![Spherical Harmonics Explorer](https://img.shields.io/badge/Spherical%20Harmonics%20Explorer-2E7D32?style=flat-square)](https://zenodo.org/records/19641497) [![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/) ![18 Apr 2026](https://img.shields.io/badge/18%20Apr%202026-555?style=flat-square)<br>
