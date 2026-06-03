@@ -8,6 +8,7 @@ Being a biology major and data science minor, my interests lie in interdisciplin
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
